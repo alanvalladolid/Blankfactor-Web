@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28fc12c8-1196-4087-93fe-e15e7dd3833f" name="Changes" comment="Blankgactor Test Automation">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/commons/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/commons/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BlogPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PostPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BlankfactorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="28fc12c8-1196-4087-93fe-e15e7dd3833f" name="Changes" comment="Blankgactor Test Automation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656109762854</updated>
     </task>
+    <task id="LOCAL-00001" summary="Blankgactor Test Automation">
+      <created>1656206958159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656206958159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
