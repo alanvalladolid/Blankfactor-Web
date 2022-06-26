@@ -7,7 +7,7 @@
 
 ## About
 This project is implemented using
-[Maven](https://maven.apache.org/), [Selenium](https://www.selenium.dev/) amd [TestNG](https://testng.org/).
+[Maven](https://maven.apache.org/), [Selenium](https://www.selenium.dev/) and [TestNG](https://testng.org/).
 
 ## Project Structure
 * `/tests` Folder contains test case scripts.
